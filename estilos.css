@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+}
+
+.contenedor{
+    background-image: url(https://i.pinimg.com/564x/3b/85/e7/3b85e7f7cc0705a04a55100c03b44b2d.jpg);
+    width: 100vw;
+    height: 50vw;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+    color: green;
+}
+
+#noBtn{
+    position: absolute;
+    color: red;
+}
